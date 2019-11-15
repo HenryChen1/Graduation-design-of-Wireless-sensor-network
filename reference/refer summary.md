@@ -2,7 +2,7 @@
 
 
 
-#### **参考文献**
+#### **[参考文献](https://github.com/HenryChen1/Graduation-design-of-Wireless-sensor-network/tree/master/reference)**
 
 
 - [1]胡中栋,伍华林,王振东.多级异构无线传感器网络高能效多跳分簇路由算法[J].仪表技术与传感器,2017(9).
